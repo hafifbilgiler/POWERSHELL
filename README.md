@@ -1,2 +1,2 @@
 # POWERSHELL
-This Repositories Contains The Sample Powershell Scripts
+This Repositories Contains The Sample For Powershell Scripts
